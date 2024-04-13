@@ -22,7 +22,7 @@ To install and run the program, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourproject/minishell.git
+   git clone https://github.com/wayzeek/minishell.git
    ```
 2. Open a terminal window and navigate to the root directory of the project:
    ```bash
